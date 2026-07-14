@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import plotly.express as px
 
-API_KEY = "aa1e0efb97113104be247b0cf21964f5"
+API_KEY ="your API_KEY"
 
 # 📝 Input cities
 cities = input("Enter city names separated by commas: ").split(",")
